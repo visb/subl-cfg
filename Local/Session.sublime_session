@@ -1,0 +1,2826 @@
+{
+	"folder_history":
+	[
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/angulartestes",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque2",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/.config/terminator",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/eluxcity",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/teste/my-project/zendframework-ZendSkeletonApplication-67cbbbf",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/angular",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/ZendSkeletonApplication",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/eluxcity2",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/eluxcity/application/modules/webservice",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/eluxcity-bkp",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/sites/cidade",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/testes",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/sites",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/sites/svn/eluxcity",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/sites/eluxcity",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/sites/teste",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/sites/svn",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/.config/sublime-text-3",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/sites/eluxcity2",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/sites/elux2",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/sites/composer",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/sites/miojolandia/03 - Web/trunk",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/sites/miojolandia",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/sites/safira1",
+		"/home/likewise-open/PDCLEARNWAY/vinicius.borges/sites/tupperware"
+	],
+	"last_version": 3059,
+	"last_window_id": 64,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"depende",
+						"dependencyResolverFor"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"loged",
+						"loggedUser"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"trans",
+						"translate"
+					],
+					[
+						"tra",
+						"translate"
+					],
+					[
+						"getSEr",
+						"getServiceManager"
+					],
+					[
+						"Trans",
+						"TranslateService"
+					],
+					[
+						"cn",
+						"content"
+					],
+					[
+						"name",
+						"namespaces"
+					],
+					[
+						"resovler",
+						"resolverClass"
+					],
+					[
+						"class",
+						"classes"
+					],
+					[
+						"assnam",
+						"assetName"
+					],
+					[
+						"asset",
+						"assetName"
+					],
+					[
+						"depe",
+						"dependencies"
+					],
+					[
+						"depen",
+						"dependenciesMethod"
+					],
+					[
+						"authen",
+						"authenticate"
+					],
+					[
+						"cooki",
+						"cookieStore"
+					],
+					[
+						"api",
+						"apiKey"
+					],
+					[
+						"token",
+						"tokenString"
+					],
+					[
+						"User",
+						"User\\Model\\UserTable"
+					],
+					[
+						"respo",
+						"responseData"
+					],
+					[
+						"getSer",
+						"getServiceConfig"
+					],
+					[
+						"ke",
+						"key"
+					],
+					[
+						"getservice",
+						"getServiceLocator"
+					],
+					[
+						"getSErvi",
+						"getServiceLocator"
+					],
+					[
+						"toke",
+						"tokenId"
+					],
+					[
+						"table",
+						"tableGateway"
+					],
+					[
+						"ap",
+						"apiKey"
+					],
+					[
+						"is_",
+						"is_object"
+					],
+					[
+						"ship",
+						"shipment_task"
+					],
+					[
+						"call",
+						"call_user_method_array"
+					],
+					[
+						"shipmenttyp",
+						"shipment_type_id"
+					],
+					[
+						"shipment_tas",
+						"shipment_task_id"
+					],
+					[
+						"shipment",
+						"shipment_type_id"
+					],
+					[
+						"zend",
+						"zendframework"
+					],
+					[
+						"usid",
+						"userId"
+					],
+					[
+						"genera",
+						"generalRanking"
+					],
+					[
+						"centr",
+						"centros_custos_id"
+					],
+					[
+						"curren",
+						"currentUserRanking"
+					],
+					[
+						"ce",
+						"centros_custos_id"
+					],
+					[
+						"view_",
+						"view_usuarios"
+					],
+					[
+						"core_",
+						"core_centros_custos"
+					],
+					[
+						"comm",
+						"communication_average"
+					],
+					[
+						"prod",
+						"product_knowledge"
+					],
+					[
+						"pers",
+						"persuasiveness"
+					],
+					[
+						"compete",
+						"competences_average"
+					],
+					[
+						"clien",
+						"clientSatisfaction"
+					],
+					[
+						"clie",
+						"clientSatisfaction"
+					],
+					[
+						"suspe",
+						"suspendData"
+					],
+					[
+						"_ws",
+						"_wsdlUrl"
+					],
+					[
+						"wsd",
+						"wsdlAction"
+					],
+					[
+						"auth",
+						"authenticate"
+					],
+					[
+						"Zend_",
+						"Zend_Controller_Action"
+					],
+					[
+						"au",
+						"authenticate"
+					],
+					[
+						"drag",
+						"dragStart"
+					],
+					[
+						"resl",
+						"result"
+					],
+					[
+						"new",
+						"new_size"
+					],
+					[
+						"locais",
+						"locais_id"
+					],
+					[
+						"locai",
+						"locais_id"
+					],
+					[
+						"LOcaismodel",
+						"Locais_Model_DbTable_CoreLocais"
+					],
+					[
+						"admin",
+						"administrators"
+					],
+					[
+						"disa",
+						"display_errors"
+					],
+					[
+						"downlo",
+						"downloadLink"
+					],
+					[
+						"ins",
+						"instanceof"
+					],
+					[
+						"addTest",
+						"addTestSuite"
+					],
+					[
+						"assert",
+						"assertEquals"
+					],
+					[
+						"usuari",
+						"usuario"
+					],
+					[
+						"where",
+						"whereArr"
+					],
+					[
+						"car",
+						"cargosIdList"
+					],
+					[
+						"info",
+						"ingres_fetch_object"
+					],
+					[
+						"arq",
+						"arquivo"
+					],
+					[
+						"alernew",
+						"_alertNewFile"
+					],
+					[
+						"Zend",
+						"Zend_Db_Expr"
+					],
+					[
+						"view",
+						"viewUsuariosModel"
+					],
+					[
+						"calle",
+						"calledMethod"
+					],
+					[
+						"call_use",
+						"call_user_func_array"
+					],
+					[
+						"ar",
+						"arquivosCargosModel"
+					],
+					[
+						"arquiv",
+						"arquivo_cargos"
+					],
+					[
+						"file",
+						"fileId"
+					],
+					[
+						"disableData_an",
+						"disableData_aniversaion"
+					],
+					[
+						"datanasimen",
+						"data_nascimento"
+					],
+					[
+						"usuarios",
+						"Usuarios_Form_AtivarDesativar"
+					],
+					[
+						"desc",
+						"description"
+					],
+					[
+						"extrat",
+						"extratoModel"
+					],
+					[
+						"extr",
+						"extratoModel"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"aniver",
+						"aniversario_alert"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 75.0,
+				"selected_items":
+				[
+					[
+						"javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"sftp",
+						"SFTP: Show Panel"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"isntal",
+						"Package Control: Install Package"
+					],
+					[
+						"pacal",
+						"Package Control: List Packages"
+					],
+					[
+						"defini",
+						"Go To Definition"
+					],
+					[
+						"pref user",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"html",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"instal ",
+						"Package Control: Install Package"
+					],
+					[
+						"pacla",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"listp",
+						"Package Control: List Packages"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"SQL",
+						"Set Syntax: SQL"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/config/application.config.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/index.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/core/services/dependencyResolverFor.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/user/config/module.config.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/Documentos/Senhas.md",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/bootstrap.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/teste2.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/teste1.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/config.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/routes.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/auth/config/module.config.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/application/config/module.config.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/app.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/auth/config/routes.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/config/routes.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/services/api.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/User/src/User/Controller/IndexController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/User/src/User/Model/UserTable.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Core/src/Core/Mvc/Controller/AbstractRestfulController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/app/controller/templates.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/app/view/templates/default.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/routes.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Core/src/Core/Mvc/Controller/AbstractActionController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Core/src/Core/Mvc/Controller/CommonControllersMethods.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Core/src/Core/Mvc/Controller/CommonControllersMethodsTraits.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/User/config/module.config.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/auth/view/login.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/auth/controller/login.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/auth/controller/logout.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/commit.md",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/teste/view/teste.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/angulartestes/assets/app/index.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/views/templates/main.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public_html/app/module/app/view/templates/default.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/module/app/controller/templates.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/module/app/view/templates/default.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/module/auth/controller/login.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/module/auth/view/login.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/assets/embarque/css/main.css",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/assets/embarque/less/main.less",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/assets/jquery/test/data/core/cc_on.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/tasks.md",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Authentication/AuthenticationService.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Auth/config/module.config.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Auth/src/Auth/Controller/IndexController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Application/config/module.config.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/teste",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/commit.txt",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/.gitignore",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/User/temp.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Api/src/Api/Controller/AbstractRestfulController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/curl",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Api/config/module.config.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Auth/Module.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/config/application.config.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Application/src/Application/Controller/IndexController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/data/migrations/20140630155820_initial_structure.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/data/migrations/20140709113533_main.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/data/migrations/20140708090147_renaming.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/I18n/Translator/Translator.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/I18n/Translator/TranslatorServiceFactory.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Di/ServiceLocator.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/ServiceManager/InitializerInterface.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Server/Exception/InvalidArgumentException.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Server/Reflection/ReflectionReturnValue.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Serializer/README.md",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Stdlib/ErrorHandler.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Serializer/AdapterPluginManager.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/filp/whoops/src/deprecated/Zend/ExceptionStrategy.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/resources/languages/ar/Zend_Captcha.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/I18n/Validator/PhoneNumber/DZ.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Cache/Storage/Adapter/ZendServerDisk.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/EventManager/SharedEventManager.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/node_modules/gulp/completion/zsh",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/I18n/Translator/TranslatorInterface.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/tests/phpunit.xml",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/tests/Bootstrap.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/tests/ModulesTests/ServiceManagerGrabber.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/tests/ModulesTests/SanDbModellingWithZendDbTest/Model/AlbumTrackMapperTest.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Application/Module.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/i18n/src/i18n/Translate/TranslateService.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Application/language/pt_BR.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/i18n/config/module.config.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/config/application.config.old.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/i18n/src/i18n/Translate/Adapter/PhpArrayAdapter.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/I18n/View/Helper/Translate.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/gg/.git/config",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/gg/README.md",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Api/src/Api/Controller/AuthController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque2/bower.json",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque2/tasks.md",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Application/view/application/index/index.phtml",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Application/src/Application/Controller/AbstractActionController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/TODO.md",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/View/Helper/HelperInterface.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/symfony/console/Symfony/Component/Console/Helper/Helper.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/symfony/console/Symfony/Component/Console/Helper/HelperInterface.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/View/HelperPluginManager.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/ServiceManager/AbstractPluginManager.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/config/autoload/README.md",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/test.css",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/test.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/AssetsManager/src/AssetsManager/Filter/Less2cssFilter.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractActionController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/ControllerManager.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Mvc/composer.json",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractConsoleController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Mvc/MvcEvent.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Mail/Header/MimeVersion.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Log/Writer/ZendMonitor.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/config/autoload/zf2-whoops.local.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/composer.json",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/package.json",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/server",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/lessc",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/test.less",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/phpunit/phpunit/src/Util/Blacklist.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Feed/PubSubHubbub/Publisher.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/node_modules/gulp-less/node_modules/less/node_modules/source-map/build/prefix-utils.jsm",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/phinx",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/data/migrations/20140701103055_create_api.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/data/migrations/20140702105139_fix_api_keys_table.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/data/migrations/20140707164418_create_translations.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Application/assets/theme/css/main2.css",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/i18n/language/pt_BR.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/i18n/src/i18n/Translate/Adapter/AdapterInterface.php"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"embarque/public",
+					"embarque/module/",
+					"module/",
+					"",
+					"library/*.php",
+					"",
+					"library/*.php",
+					"application/modules/*.php",
+					"*.ini",
+					"",
+					"application/",
+					"application/modules",
+					"application/modules/rede-social",
+					"*.php",
+					"",
+					"application/",
+					"application/*.php",
+					"application/*.ini",
+					"application/*/*.ini",
+					"application/*.ini",
+					"application/**/*.ini",
+					"application/",
+					"application/modules/",
+					"",
+					"application/",
+					"application",
+					"library/i18n/es_*",
+					"application/",
+					"",
+					"*/**/*.ini",
+					"*.ini",
+					"library/i18n/",
+					"library/",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"state",
+					"$",
+					"loggedUser",
+					"login",
+					"success",
+					"app/controller/tempaltes",
+					"ui-router",
+					"details",
+					"li",
+					": null",
+					"''",
+					"empty",
+					"isset($data[",
+					"$data[",
+					"$data",
+					"apiUrl",
+					"auth",
+					"login",
+					"apiUrl + '/",
+					"apiUrl",
+					"user",
+					"Model",
+					"Api",
+					"crud",
+					"    ",
+					"step",
+					"onboarding",
+					"shipment",
+					"translator",
+					"_serviceManager",
+					"getConfig",
+					"`",
+					"'allow_override'",
+					"setStatus",
+					"username",
+					"setEventManager",
+					"getEventManager",
+					"setServiceLocator",
+					"value",
+					"shipment_task",
+					"Adapter",
+					"loadMessagesFromRemote",
+					"loadMessages",
+					"getTranslatedMessage",
+					"Translate",
+					"translate",
+					"Translate",
+					"translate",
+					"Translate",
+					"translate",
+					"Translate",
+					"translate",
+					"getPluginManager",
+					"loadMessages",
+					"getTranslatedMessage",
+					"serviceManager",
+					"'unique' =>",
+					"Translator",
+					"translator",
+					"getRealFileName",
+					"getNamespacePath",
+					"getAdapter",
+					"name",
+					"AdapterInterface",
+					"setContent",
+					"fileName",
+					"config",
+					"isSet",
+					",",
+					"assetsManager",
+					"Frontend",
+					"asset_name",
+					"@",
+					"assets",
+					"@/",
+					"),",
+					"array",
+					"Templates",
+					"content_name",
+					"view_path",
+					"template_path",
+					"tasks",
+					"users",
+					"mysq",
+					"mysql",
+					"_loginAction",
+					"dependencies",
+					" =",
+					"username",
+					"angular",
+					"    \n",
+					"controller",
+					"insertToken",
+					"username",
+					"data",
+					"displayMessageErrorFor",
+					"token",
+					"getToken",
+					"ngCookies",
+					"cookies",
+					"angular-cookies",
+					"route",
+					"cookies",
+					"resource",
+					"app",
+					"baseUrl",
+					"users",
+					"id",
+					"token",
+					"userTable",
+					"UserTable",
+					"userTable",
+					"status",
+					"users",
+					"user",
+					"username",
+					"Auth",
+					"ApiTokenTableGateway",
+					"Api\\Model\\TokenTable",
+					"ApiKeyTableGateway",
+					"id",
+					");",
+					"),",
+					"array(",
+					"id",
+					"\n",
+					"_keyTable",
+					"    \n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\n		'navigationRelatoriosTrade' => \"Trade\",",
+					"\n		'cursos' => \"Cursos\",",
+					"\n		'navigationRelatoriosJogo' => \"Jogo Gestum\",\n\n		'navigationRelatoriosJogo' => \"Jogo Gestum\",",
+					": ",
+					"'mensagemaniversario_pt2' => \"Y como regalo especial para ti : 200 coronas!\",",
+					"'mensagemaniversario_pt1' => \"¡Hoy es tu día y por ser una fecha  tan especial, la ciudad fue decorada para celebrar contigo!\",",
+					"'felizaniversario' => \"Feliz <strong>cumpleaños</strong>\",",
+					"'mensagemaniversario_pt2' => \"e um presente especial: 200 Coroas.\",",
+					"'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 112.0
+			},
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"commi",
+						"commit.md"
+					],
+					[
+						"core/mvc/controller/abstractrestfulcontroller",
+						"module/Core/src/Core/Mvc/Controller/AbstractRestfulController.php"
+					],
+					[
+						"zend/servicemanager",
+						"embarque/vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"zend/i18n/translator/translator",
+						"embarque/vendor/zendframework/zendframework/library/Zend/I18n/Translator/Translator.php"
+					],
+					[
+						"zend/i18n/translator/translatorservicefactory",
+						"embarque/vendor/zendframework/zendframework/library/Zend/I18n/Translator/TranslatorServiceFactory.php"
+					],
+					[
+						"i18n/translate/adapter/phparrayadapter",
+						"embarque/module/i18n/src/i18n/Translate/Adapter/PhpArrayAdapter.php"
+					],
+					[
+						"i18n/translate/translateservice",
+						"embarque/module/i18n/src/i18n/Translate/TranslateService.php"
+					],
+					[
+						"zend/view/helper/helperinterface",
+						"embarque/vendor/zendframework/zendframework/library/Zend/View/Helper/HelperInterface.php"
+					],
+					[
+						"zend/view/helperpluginmanager",
+						"embarque/vendor/zendframework/zendframework/library/Zend/View/HelperPluginManager.php"
+					],
+					[
+						"zendmvccontrabstraaction",
+						"embarque/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractActionController.php"
+					],
+					[
+						"pub/test",
+						"embarque/public/test.php"
+					],
+					[
+						"compose",
+						"embarque/composer.json"
+					],
+					[
+						"confapp",
+						"embarque/config/application.config.php"
+					],
+					[
+						"/zend/i18n/translator/translator",
+						"embarque/vendor/zendframework/zendframework/library/Zend/I18n/Translator/Translator.php"
+					],
+					[
+						".htace",
+						"public/.htaccess"
+					],
+					[
+						"index",
+						"public/index.php"
+					],
+					[
+						"zend/db/adapter/adapter",
+						"vendor/zendframework/zendframework/library/Zend/Db/Adapter/Adapter.php"
+					],
+					[
+						"zendviewscript",
+						"vendor/zendframework/zendframework/library/Zend/View/Helper/HeadScript.php"
+					],
+					[
+						"zend/db/tablegateway/tablegateway",
+						"vendor/zendframework/zendframework/library/Zend/Db/TableGateway/TableGateway.php"
+					],
+					[
+						"puind",
+						"public/index.php"
+					],
+					[
+						"traini",
+						"application/modules/relatorios/views/scripts/jogo/center-training.phtml"
+					],
+					[
+						"jogocontr",
+						"application/modules/relatorios/controllers/JogoController.php"
+					],
+					[
+						"navi",
+						"application/configs/navigation.ini"
+					],
+					[
+						"rela/contr/prova",
+						"application/modules/relatorios/controllers/ProvasDeNivelamentoController.php"
+					],
+					[
+						"app/confi/ap",
+						"application/configs/application.ini"
+					],
+					[
+						"es_ni",
+						"library/i18n/es_NI.php"
+					],
+					[
+						"es_do",
+						"library/i18n/es_DO.php"
+					],
+					[
+						"es_pa",
+						"library/i18n/es_PA.php"
+					],
+					[
+						"relamodejogo",
+						"application/modules/relatorios/models/Jogo.php"
+					],
+					[
+						"indi",
+						"application/modules/relatorios/views/scripts/jogo/individual-excel.phtml"
+					],
+					[
+						"jogo/indi",
+						"application/modules/relatorios/views/scripts/jogo/individual.phtml"
+					],
+					[
+						"contrjogo",
+						"application/modules/webservice/controllers/JogoTestController.php"
+					],
+					[
+						"viewususa",
+						"application/modules/lms/models/DbTable/ViewUsuarios.php"
+					],
+					[
+						"navini",
+						"application/configs/navigation.ini"
+					],
+					[
+						"conf/nav.ini",
+						"application/configs/navigation.ini"
+					],
+					[
+						"reset",
+						"application/modules/usuarios/forms/ResetarSenha.php"
+					],
+					[
+						"web/contr",
+						"application/modules/webservice/controllers/JogoController.php"
+					],
+					[
+						"viewus",
+						"application/modules/lms/models/DbTable/ViewUsuarios.php"
+					],
+					[
+						".htac",
+						"public_html/.htaccess"
+					],
+					[
+						"arqui.htac",
+						"public_html/arquivos/.htaccess"
+					],
+					[
+						".htaccess",
+						"public_html/.htaccess"
+					],
+					[
+						"loginmode",
+						"application/modules/login/models/DbTable/CoreLogin.php"
+					],
+					[
+						"initzend",
+						"cron/init_zend.php"
+					],
+					[
+						"corelogin",
+						"application/modules/cidade/models/DbTable/CoreLogin.php"
+					],
+					[
+						"modules/view",
+						"application/modules/lms/models/DbTable/ViewUsuarios.php"
+					],
+					[
+						"corearquivos",
+						"application/modules/arquivos/models/DbTable/CoreArquivos.php"
+					],
+					[
+						"emaillista",
+						"application/modules/config/models/DbTable/EmailLista.php"
+					],
+					[
+						"corecargos",
+						"application/modules/cargos/models/DbTable/CoreCargos.php"
+					],
+					[
+						"modelemaillista",
+						"application/modules/config/models/DbTable/EmailLista.php"
+					],
+					[
+						"controlecrud",
+						"library/Core/Controller/Crud.php"
+					],
+					[
+						"zenddbrowabstr",
+						"library/Zend/Db/Table/Row/Abstract.php"
+					],
+					[
+						"corearqi",
+						"application/modules/arquivos/models/DbTable/CoreArquivos.php"
+					],
+					[
+						"modelsemailtemplate",
+						"application/modules/config/models/DbTable/EmailsTemplates.php"
+					],
+					[
+						"modelemaili",
+						"application/modules/config/models/DbTable/EmailLista.php"
+					],
+					[
+						"lmsmodeldbtableviewusuarios",
+						"application/modules/lms/models/DbTable/ViewUsuarios.php"
+					],
+					[
+						"modcorecar",
+						"application/modules/cargos/models/DbTable/CoreCargos.php"
+					],
+					[
+						"loginmodeltablelogin",
+						"application/modules/login/models/DbTable/CoreLogin.php"
+					],
+					[
+						"coremodellogin",
+						"application/modules/consultores/models/DbRow/CoreLogin.php"
+					],
+					[
+						"publicindex",
+						"public_html/index.php"
+					],
+					[
+						"modelcorecar",
+						"application/modules/cargos/models/DbTable/CoreCargos.php"
+					],
+					[
+						"admin.css",
+						"public_html/css/admin.css"
+					],
+					[
+						"corecargo",
+						"application/modules/cargos/models/DbTable/CoreCargos.php"
+					],
+					[
+						"admin.cs",
+						"public_html/css/admin.css"
+					],
+					[
+						"cargosmodel",
+						"application/modules/cargos/models/DbTable/CoreCargos.php"
+					],
+					[
+						"primeiro",
+						"application/modules/login/controllers/PrimeiroAcessoController.php"
+					],
+					[
+						"modarquicontradmin",
+						"application/modules/arquivos/controllers/AdminController.php"
+					],
+					[
+						"loginprime",
+						"application/modules/login/controllers/PrimeiroAcessoController.php"
+					],
+					[
+						"zenddbrow",
+						"library/Zend/Db/Table/Row/Abstract.php"
+					],
+					[
+						"magicform",
+						"public_html/js/jquery.magicform.js"
+					],
+					[
+						"redepostar",
+						"public_html/js/rede-social-postar.js"
+					],
+					[
+						"log/modlog",
+						"application/modules/log/models/DbTable/Log.php"
+					],
+					[
+						"premio",
+						"application/modules/premios/models/DbTable/Premios.php"
+					],
+					[
+						"modelextrato",
+						"application/modules/cidade/models/DbTable/CoreExtrato.php"
+					],
+					[
+						"modcidadcontrlocais",
+						"application/modules/cidade/controllers/LocaisController.php"
+					],
+					[
+						"model/extrato.php",
+						"application/modules/cidade/models/DbTable/CoreExtrato.php"
+					],
+					[
+						"locaiscontr",
+						"application/modules/cidade/controllers/LocaisController.php"
+					],
+					[
+						"birthmodal",
+						"public_html/css/birthday-modal.css"
+					],
+					[
+						"bootstr",
+						"application/Bootstrap.php"
+					],
+					[
+						"cidadeconfig",
+						"application/modules/cidade/configs/routes.ini"
+					],
+					[
+						"core/trans",
+						"library/Core/Translate.php"
+					],
+					[
+						"modlogcontrinde",
+						"application/modules/login/controllers/IndexController.php"
+					],
+					[
+						"birt",
+						"public_html/js/birthday-modal.js"
+					],
+					[
+						".gitig",
+						".gitignore"
+					],
+					[
+						"zend/auth",
+						"library/Zend/Auth.php"
+					],
+					[
+						"zenddbtableabstract",
+						"library/Zend/Db/Table/Abstract.php"
+					],
+					[
+						"zendauthadapterinter",
+						"library/Zend/Auth/Adapter/Interface.php"
+					],
+					[
+						"zend/auth/ada",
+						"library/Zend/Auth/Adapter/DbTable.php"
+					],
+					[
+						"forum",
+						"lib_cidade/classes/ClassForum.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 308.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"se",
+						"serviceLocator"
+					],
+					[
+						"board_ste",
+						"board_step_id"
+					],
+					[
+						"controll",
+						"controllers"
+					],
+					[
+						"comple",
+						"complete"
+					],
+					[
+						"complete",
+						"completeTask"
+					],
+					[
+						"requi",
+						"requireAnonymous"
+					],
+					[
+						"contr",
+						"controller"
+					],
+					[
+						"control",
+						"controllerName"
+					],
+					[
+						"angu",
+						"angular"
+					],
+					[
+						"ang",
+						"angular-ui-router"
+					],
+					[
+						"depend",
+						"dependencies"
+					],
+					[
+						"depende",
+						"dependencyResolverFor"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"loged",
+						"loggedUser"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"trans",
+						"translate"
+					],
+					[
+						"tra",
+						"translate"
+					],
+					[
+						"getSEr",
+						"getServiceManager"
+					],
+					[
+						"Trans",
+						"TranslateService"
+					],
+					[
+						"cn",
+						"content"
+					],
+					[
+						"name",
+						"namespaces"
+					],
+					[
+						"resovler",
+						"resolverClass"
+					],
+					[
+						"class",
+						"classes"
+					],
+					[
+						"assnam",
+						"assetName"
+					],
+					[
+						"asset",
+						"assetName"
+					],
+					[
+						"depe",
+						"dependencies"
+					],
+					[
+						"depen",
+						"dependenciesMethod"
+					],
+					[
+						"authen",
+						"authenticate"
+					],
+					[
+						"cooki",
+						"cookieStore"
+					],
+					[
+						"api",
+						"apiKey"
+					],
+					[
+						"token",
+						"tokenString"
+					],
+					[
+						"User",
+						"User\\Model\\UserTable"
+					],
+					[
+						"respo",
+						"responseData"
+					],
+					[
+						"getSer",
+						"getServiceConfig"
+					],
+					[
+						"ke",
+						"key"
+					],
+					[
+						"getservice",
+						"getServiceLocator"
+					],
+					[
+						"getSErvi",
+						"getServiceLocator"
+					],
+					[
+						"toke",
+						"tokenId"
+					],
+					[
+						"table",
+						"tableGateway"
+					],
+					[
+						"ap",
+						"apiKey"
+					],
+					[
+						"is_",
+						"is_object"
+					],
+					[
+						"ship",
+						"shipment_task"
+					],
+					[
+						"call",
+						"call_user_method_array"
+					],
+					[
+						"shipmenttyp",
+						"shipment_type_id"
+					],
+					[
+						"shipment_tas",
+						"shipment_task_id"
+					],
+					[
+						"shipment",
+						"shipment_type_id"
+					],
+					[
+						"zend",
+						"zendframework"
+					],
+					[
+						"usid",
+						"userId"
+					],
+					[
+						"genera",
+						"generalRanking"
+					],
+					[
+						"centr",
+						"centros_custos_id"
+					],
+					[
+						"curren",
+						"currentUserRanking"
+					],
+					[
+						"ce",
+						"centros_custos_id"
+					],
+					[
+						"view_",
+						"view_usuarios"
+					],
+					[
+						"core_",
+						"core_centros_custos"
+					],
+					[
+						"comm",
+						"communication_average"
+					],
+					[
+						"prod",
+						"product_knowledge"
+					],
+					[
+						"pers",
+						"persuasiveness"
+					],
+					[
+						"compete",
+						"competences_average"
+					],
+					[
+						"clien",
+						"clientSatisfaction"
+					],
+					[
+						"clie",
+						"clientSatisfaction"
+					],
+					[
+						"suspe",
+						"suspendData"
+					],
+					[
+						"_ws",
+						"_wsdlUrl"
+					],
+					[
+						"wsd",
+						"wsdlAction"
+					],
+					[
+						"auth",
+						"authenticate"
+					],
+					[
+						"Zend_",
+						"Zend_Controller_Action"
+					],
+					[
+						"au",
+						"authenticate"
+					],
+					[
+						"drag",
+						"dragStart"
+					],
+					[
+						"resl",
+						"result"
+					],
+					[
+						"new",
+						"new_size"
+					],
+					[
+						"locais",
+						"locais_id"
+					],
+					[
+						"locai",
+						"locais_id"
+					],
+					[
+						"LOcaismodel",
+						"Locais_Model_DbTable_CoreLocais"
+					],
+					[
+						"admin",
+						"administrators"
+					],
+					[
+						"disa",
+						"display_errors"
+					],
+					[
+						"downlo",
+						"downloadLink"
+					],
+					[
+						"ins",
+						"instanceof"
+					],
+					[
+						"addTest",
+						"addTestSuite"
+					],
+					[
+						"assert",
+						"assertEquals"
+					],
+					[
+						"usuari",
+						"usuario"
+					],
+					[
+						"where",
+						"whereArr"
+					],
+					[
+						"car",
+						"cargosIdList"
+					],
+					[
+						"info",
+						"ingres_fetch_object"
+					],
+					[
+						"arq",
+						"arquivo"
+					],
+					[
+						"alernew",
+						"_alertNewFile"
+					],
+					[
+						"Zend",
+						"Zend_Db_Expr"
+					],
+					[
+						"view",
+						"viewUsuariosModel"
+					],
+					[
+						"calle",
+						"calledMethod"
+					],
+					[
+						"call_use",
+						"call_user_func_array"
+					],
+					[
+						"ar",
+						"arquivosCargosModel"
+					],
+					[
+						"arquiv",
+						"arquivo_cargos"
+					],
+					[
+						"file",
+						"fileId"
+					],
+					[
+						"disableData_an",
+						"disableData_aniversaion"
+					],
+					[
+						"datanasimen",
+						"data_nascimento"
+					],
+					[
+						"usuarios",
+						"Usuarios_Form_AtivarDesativar"
+					],
+					[
+						"desc",
+						"description"
+					],
+					[
+						"extrat",
+						"extratoModel"
+					],
+					[
+						"extr",
+						"extratoModel"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"aniver",
+						"aniversario_alert"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "embarque/module/Task/src/Task/Controller/IndexController.php",
+					"settings":
+					{
+						"buffer_size": 804,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "embarque/module/Task/src/Task/Model/Task.php",
+					"settings":
+					{
+						"buffer_size": 779,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "embarque/module/Task/src/Task/Model/TaskTable.php",
+					"settings":
+					{
+						"buffer_size": 1444,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "embarque/module/Task/src/Task/Adapter/Text.php",
+					"settings":
+					{
+						"buffer_size": 150,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "embarque/module/Task/src/Task/Adapter/AdapterInterface.php",
+					"settings":
+					{
+						"buffer_size": 104,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "embarque/module/Task/src/Task/Model/TaskType.php",
+					"settings":
+					{
+						"buffer_size": 811,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "embarque/module/Task/src/Task/Model/TaskTypeTable.php",
+					"settings":
+					{
+						"buffer_size": 52,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 75.0,
+				"selected_items":
+				[
+					[
+						"javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"sftp",
+						"SFTP: Show Panel"
+					],
+					[
+						"isntal",
+						"Package Control: Install Package"
+					],
+					[
+						"pacal",
+						"Package Control: List Packages"
+					],
+					[
+						"defini",
+						"Go To Definition"
+					],
+					[
+						"pref user",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"html",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"instal ",
+						"Package Control: Install Package"
+					],
+					[
+						"pacla",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"listp",
+						"Package Control: List Packages"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"SQL",
+						"Set Syntax: SQL"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Task/config/module.config.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Db/ResultSet/ResultSet.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Task/src/Task/Model/Task.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/data/migrations/20140709113533_main.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Db/TableGateway/TableGateway.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Task/src/Task/Model/TaskTable.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Db/TableGateway/AbstractTableGateway.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/commit.md",
+				"/tmp/fz3temp-1/AdminController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/module/api/module.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/module/tasks/type/text.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Core/src/Core/Mvc/Controller/AbstractRestfulController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/module/steps/controllers.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/module/tasks/view/type/text.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/config/application.config.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/index.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractRestfulController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Task/Module.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/AssetsManager/config/module.config.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Auth/config/module.config.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Step/Module.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/tasks/view/type/text.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/tasks/type/text.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/tasks/controllers.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/steps/controllers.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/steps/view/step.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/api/module.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/auth/module.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/tasks/routes.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/tasks/module.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/steps/module.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/api/service/api.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public_html/app~/services/api.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app~/services/api.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public_html/api.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/api.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/composer/autoload_psr4.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/steps/view/index.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/index.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/auth/routes.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/app.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/steps/routes.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/auth/controllers.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/.htaccess",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/app/view/template/default.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Auth/src/Auth/Controller/IndexController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/bower.json",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/api/routes.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/api/controllers.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/app/module/auth/view/login.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/auth/view/login.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/assets/theme/css/main.css",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/node_modules/less/test/browser/runner-browser-options.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/application/view/template/default.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/bootstrap/routes.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/bootstrap/app.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/front/front",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/bootstrap/index.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/bootstrap/app.js~",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/application/config/module.config.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/Documentos/Man.ssh-mount.md",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/angulartestes/assets/app/index.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/test.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/application/controller/steps.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/application/view/onboarding/steps.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/auth/controller/login.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/auth/controller/logout.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/auth/config/module.config.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/auth/module.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/config/application.config.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/application/controller/index.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app~/app.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/core/services/dependencyResolverFor.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/user/config/module.config.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/Documentos/Senhas.md",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/bootstrap.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/teste2.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/teste1.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/config.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/routes.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/app.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/auth/config/routes.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/config/routes.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/services/api.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/User/src/User/Controller/IndexController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/User/src/User/Model/UserTable.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/app/controller/templates.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/app/view/templates/default.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/routes.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Core/src/Core/Mvc/Controller/AbstractActionController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Core/src/Core/Mvc/Controller/CommonControllersMethods.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Core/src/Core/Mvc/Controller/CommonControllersMethodsTraits.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/User/config/module.config.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/module/teste/view/teste.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/views/templates/main.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public_html/app/module/app/view/templates/default.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/module/app/controller/templates.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/module/app/view/templates/default.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/module/auth/controller/login.js",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/app/module/auth/view/login.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/assets/embarque/css/main.css",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/assets/embarque/less/main.less",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/public/assets/jquery/test/data/core/cc_on.html",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/tasks.md",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Authentication/AuthenticationService.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Application/config/module.config.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/teste",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/commit.txt",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/.gitignore",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/User/temp.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Api/src/Api/Controller/AbstractRestfulController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/curl",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Api/config/module.config.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Auth/Module.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/module/Application/src/Application/Controller/IndexController.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/data/migrations/20140630155820_initial_structure.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/data/migrations/20140708090147_renaming.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/I18n/Translator/Translator.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/I18n/Translator/TranslatorServiceFactory.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Di/ServiceLocator.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/ServiceManager/InitializerInterface.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Server/Exception/InvalidArgumentException.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Server/Reflection/ReflectionReturnValue.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Serializer/README.md",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Stdlib/ErrorHandler.php",
+				"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque/vendor/zendframework/zendframework/library/Zend/Serializer/AdapterPluginManager.php"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"",
+					"embarque/public",
+					"embarque/module/",
+					"module/",
+					"",
+					"library/*.php",
+					"",
+					"library/*.php",
+					"application/modules/*.php",
+					"*.ini",
+					"",
+					"application/",
+					"application/modules",
+					"application/modules/rede-social",
+					"*.php",
+					"",
+					"application/",
+					"application/*.php",
+					"application/*.ini",
+					"application/*/*.ini",
+					"application/*.ini",
+					"application/**/*.ini",
+					"application/",
+					"application/modules/",
+					"",
+					"application/",
+					"application",
+					"library/i18n/es_*",
+					"application/",
+					"",
+					"*/**/*.ini",
+					"*.ini",
+					"library/i18n/",
+					"library/",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"getArrayObjectPrototype",
+					"template_name",
+					"title",
+					"board_task_type_id",
+					"User",
+					"email",
+					"password",
+					"username",
+					"id",
+					"produtos_id",
+					"),",
+					"Step",
+					"steps",
+					"__METHOD__",
+					"AbstractRestfulController",
+					"id",
+					"div",
+					"ng-include",
+					"ng-",
+					"ng",
+					"auth",
+					"stepsController",
+					"test",
+					"step",
+					"}}</",
+					"logged",
+					"scope",
+					"1",
+					"angular-cookies",
+					"onboarding-",
+					"router",
+					"app",
+					"js",
+					",",
+					"angular",
+					"= {",
+					"{\n",
+					"home =",
+					"state",
+					"stateProvider",
+					" ",
+					"^<\\?\\n",
+					"^<\\?(!php)",
+					"^<\\?(!.*php)",
+					"^<\\?\\n",
+					"^<\\?(!php).",
+					"^<\\?(!php)",
+					"^<\\?(!.*php)",
+					"^<\\?",
+					"^\\<\\?",
+					"\\<\\?(?!.*php)",
+					"\\<\\?(!php)",
+					"<?(!php)",
+					"^\\<\\?\\n",
+					"body",
+					"rootScope",
+					"logged",
+					"scope  ",
+					"rootScope",
+					"login",
+					"console.log",
+					"state",
+					"$",
+					"loggedUser",
+					"login",
+					"success",
+					"app/controller/tempaltes",
+					"ui-router",
+					"details",
+					"li",
+					": null",
+					"''",
+					"empty",
+					"isset($data[",
+					"$data[",
+					"$data",
+					"apiUrl",
+					"auth",
+					"login",
+					"apiUrl + '/",
+					"apiUrl",
+					"user",
+					"Model",
+					"Api",
+					"crud",
+					"    ",
+					"step",
+					"onboarding",
+					"shipment",
+					"translator",
+					"_serviceManager",
+					"getConfig",
+					"`",
+					"'allow_override'",
+					"setStatus",
+					"username",
+					"setEventManager",
+					"getEventManager",
+					"setServiceLocator",
+					"value",
+					"shipment_task",
+					"Adapter",
+					"loadMessagesFromRemote",
+					"loadMessages",
+					"getTranslatedMessage",
+					"Translate",
+					"translate",
+					"Translate",
+					"translate",
+					"Translate",
+					"translate",
+					"Translate",
+					"translate",
+					"getPluginManager",
+					"loadMessages",
+					"getTranslatedMessage",
+					"serviceManager",
+					"'unique' =>",
+					"Translator",
+					"translator",
+					"getRealFileName",
+					"getNamespacePath",
+					"getAdapter",
+					"name",
+					"AdapterInterface",
+					"setContent",
+					"fileName",
+					"config"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\n		'navigationRelatoriosTrade' => \"Trade\",",
+					"\n		'cursos' => \"Cursos\",",
+					"\n		'navigationRelatoriosJogo' => \"Jogo Gestum\",\n\n		'navigationRelatoriosJogo' => \"Jogo Gestum\",",
+					": ",
+					"'mensagemaniversario_pt2' => \"Y como regalo especial para ti : 200 coronas!\",",
+					"'mensagemaniversario_pt1' => \"¡Hoy es tu día y por ser una fecha  tan especial, la ciudad fue decorada para celebrar contigo!\",",
+					"'felizaniversario' => \"Feliz <strong>cumpleaños</strong>\",",
+					"'mensagemaniversario_pt2' => \"e um presente especial: 200 Coroas.\",",
+					"'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "embarque/module/Task/src/Task/Controller/IndexController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 804,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										622,
+										622
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"open_with_edit": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "embarque/module/Task/src/Task/Model/Task.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 779,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										777,
+										777
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 306.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "embarque/module/Task/src/Task/Model/TaskTable.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1444,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1172,
+										1172
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 418.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "embarque/module/Task/src/Task/Adapter/Text.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 150,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										140,
+										140
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"open_with_edit": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "embarque/module/Task/src/Task/Adapter/AdapterInterface.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 104,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										77,
+										77
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "embarque/module/Task/src/Task/Model/TaskType.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 811,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										803,
+										803
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"open_with_edit": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 153.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "embarque/module/Task/src/Task/Model/TaskTypeTable.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 52,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										51,
+										51
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"open_with_edit": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 112.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1360,768",
+			"project": "embarque.sublime-project",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"commi",
+						"commit.md"
+					],
+					[
+						"bower",
+						"front/bower.json"
+					],
+					[
+						"core/mvc/controller/abstractrestfulcontroller",
+						"module/Core/src/Core/Mvc/Controller/AbstractRestfulController.php"
+					],
+					[
+						"zend/servicemanager",
+						"embarque/vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+					],
+					[
+						"zend/i18n/translator/translator",
+						"embarque/vendor/zendframework/zendframework/library/Zend/I18n/Translator/Translator.php"
+					],
+					[
+						"zend/i18n/translator/translatorservicefactory",
+						"embarque/vendor/zendframework/zendframework/library/Zend/I18n/Translator/TranslatorServiceFactory.php"
+					],
+					[
+						"i18n/translate/adapter/phparrayadapter",
+						"embarque/module/i18n/src/i18n/Translate/Adapter/PhpArrayAdapter.php"
+					],
+					[
+						"i18n/translate/translateservice",
+						"embarque/module/i18n/src/i18n/Translate/TranslateService.php"
+					],
+					[
+						"zend/view/helper/helperinterface",
+						"embarque/vendor/zendframework/zendframework/library/Zend/View/Helper/HelperInterface.php"
+					],
+					[
+						"zend/view/helperpluginmanager",
+						"embarque/vendor/zendframework/zendframework/library/Zend/View/HelperPluginManager.php"
+					],
+					[
+						"zendmvccontrabstraaction",
+						"embarque/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractActionController.php"
+					],
+					[
+						"pub/test",
+						"embarque/public/test.php"
+					],
+					[
+						"compose",
+						"embarque/composer.json"
+					],
+					[
+						"confapp",
+						"embarque/config/application.config.php"
+					],
+					[
+						"/zend/i18n/translator/translator",
+						"embarque/vendor/zendframework/zendframework/library/Zend/I18n/Translator/Translator.php"
+					],
+					[
+						".htace",
+						"public/.htaccess"
+					],
+					[
+						"index",
+						"public/index.php"
+					],
+					[
+						"zend/db/adapter/adapter",
+						"vendor/zendframework/zendframework/library/Zend/Db/Adapter/Adapter.php"
+					],
+					[
+						"zendviewscript",
+						"vendor/zendframework/zendframework/library/Zend/View/Helper/HeadScript.php"
+					],
+					[
+						"zend/db/tablegateway/tablegateway",
+						"vendor/zendframework/zendframework/library/Zend/Db/TableGateway/TableGateway.php"
+					],
+					[
+						"puind",
+						"public/index.php"
+					],
+					[
+						"traini",
+						"application/modules/relatorios/views/scripts/jogo/center-training.phtml"
+					],
+					[
+						"jogocontr",
+						"application/modules/relatorios/controllers/JogoController.php"
+					],
+					[
+						"navi",
+						"application/configs/navigation.ini"
+					],
+					[
+						"rela/contr/prova",
+						"application/modules/relatorios/controllers/ProvasDeNivelamentoController.php"
+					],
+					[
+						"app/confi/ap",
+						"application/configs/application.ini"
+					],
+					[
+						"es_ni",
+						"library/i18n/es_NI.php"
+					],
+					[
+						"es_do",
+						"library/i18n/es_DO.php"
+					],
+					[
+						"es_pa",
+						"library/i18n/es_PA.php"
+					],
+					[
+						"relamodejogo",
+						"application/modules/relatorios/models/Jogo.php"
+					],
+					[
+						"indi",
+						"application/modules/relatorios/views/scripts/jogo/individual-excel.phtml"
+					],
+					[
+						"jogo/indi",
+						"application/modules/relatorios/views/scripts/jogo/individual.phtml"
+					],
+					[
+						"contrjogo",
+						"application/modules/webservice/controllers/JogoTestController.php"
+					],
+					[
+						"viewususa",
+						"application/modules/lms/models/DbTable/ViewUsuarios.php"
+					],
+					[
+						"navini",
+						"application/configs/navigation.ini"
+					],
+					[
+						"conf/nav.ini",
+						"application/configs/navigation.ini"
+					],
+					[
+						"reset",
+						"application/modules/usuarios/forms/ResetarSenha.php"
+					],
+					[
+						"web/contr",
+						"application/modules/webservice/controllers/JogoController.php"
+					],
+					[
+						"viewus",
+						"application/modules/lms/models/DbTable/ViewUsuarios.php"
+					],
+					[
+						".htac",
+						"public_html/.htaccess"
+					],
+					[
+						"arqui.htac",
+						"public_html/arquivos/.htaccess"
+					],
+					[
+						".htaccess",
+						"public_html/.htaccess"
+					],
+					[
+						"loginmode",
+						"application/modules/login/models/DbTable/CoreLogin.php"
+					],
+					[
+						"initzend",
+						"cron/init_zend.php"
+					],
+					[
+						"corelogin",
+						"application/modules/cidade/models/DbTable/CoreLogin.php"
+					],
+					[
+						"modules/view",
+						"application/modules/lms/models/DbTable/ViewUsuarios.php"
+					],
+					[
+						"corearquivos",
+						"application/modules/arquivos/models/DbTable/CoreArquivos.php"
+					],
+					[
+						"emaillista",
+						"application/modules/config/models/DbTable/EmailLista.php"
+					],
+					[
+						"corecargos",
+						"application/modules/cargos/models/DbTable/CoreCargos.php"
+					],
+					[
+						"modelemaillista",
+						"application/modules/config/models/DbTable/EmailLista.php"
+					],
+					[
+						"controlecrud",
+						"library/Core/Controller/Crud.php"
+					],
+					[
+						"zenddbrowabstr",
+						"library/Zend/Db/Table/Row/Abstract.php"
+					],
+					[
+						"corearqi",
+						"application/modules/arquivos/models/DbTable/CoreArquivos.php"
+					],
+					[
+						"modelsemailtemplate",
+						"application/modules/config/models/DbTable/EmailsTemplates.php"
+					],
+					[
+						"modelemaili",
+						"application/modules/config/models/DbTable/EmailLista.php"
+					],
+					[
+						"lmsmodeldbtableviewusuarios",
+						"application/modules/lms/models/DbTable/ViewUsuarios.php"
+					],
+					[
+						"modcorecar",
+						"application/modules/cargos/models/DbTable/CoreCargos.php"
+					],
+					[
+						"loginmodeltablelogin",
+						"application/modules/login/models/DbTable/CoreLogin.php"
+					],
+					[
+						"coremodellogin",
+						"application/modules/consultores/models/DbRow/CoreLogin.php"
+					],
+					[
+						"publicindex",
+						"public_html/index.php"
+					],
+					[
+						"modelcorecar",
+						"application/modules/cargos/models/DbTable/CoreCargos.php"
+					],
+					[
+						"admin.css",
+						"public_html/css/admin.css"
+					],
+					[
+						"corecargo",
+						"application/modules/cargos/models/DbTable/CoreCargos.php"
+					],
+					[
+						"admin.cs",
+						"public_html/css/admin.css"
+					],
+					[
+						"cargosmodel",
+						"application/modules/cargos/models/DbTable/CoreCargos.php"
+					],
+					[
+						"primeiro",
+						"application/modules/login/controllers/PrimeiroAcessoController.php"
+					],
+					[
+						"modarquicontradmin",
+						"application/modules/arquivos/controllers/AdminController.php"
+					],
+					[
+						"loginprime",
+						"application/modules/login/controllers/PrimeiroAcessoController.php"
+					],
+					[
+						"zenddbrow",
+						"library/Zend/Db/Table/Row/Abstract.php"
+					],
+					[
+						"magicform",
+						"public_html/js/jquery.magicform.js"
+					],
+					[
+						"redepostar",
+						"public_html/js/rede-social-postar.js"
+					],
+					[
+						"log/modlog",
+						"application/modules/log/models/DbTable/Log.php"
+					],
+					[
+						"premio",
+						"application/modules/premios/models/DbTable/Premios.php"
+					],
+					[
+						"modelextrato",
+						"application/modules/cidade/models/DbTable/CoreExtrato.php"
+					],
+					[
+						"modcidadcontrlocais",
+						"application/modules/cidade/controllers/LocaisController.php"
+					],
+					[
+						"model/extrato.php",
+						"application/modules/cidade/models/DbTable/CoreExtrato.php"
+					],
+					[
+						"locaiscontr",
+						"application/modules/cidade/controllers/LocaisController.php"
+					],
+					[
+						"birthmodal",
+						"public_html/css/birthday-modal.css"
+					],
+					[
+						"bootstr",
+						"application/Bootstrap.php"
+					],
+					[
+						"cidadeconfig",
+						"application/modules/cidade/configs/routes.ini"
+					],
+					[
+						"core/trans",
+						"library/Core/Translate.php"
+					],
+					[
+						"modlogcontrinde",
+						"application/modules/login/controllers/IndexController.php"
+					],
+					[
+						"birt",
+						"public_html/js/birthday-modal.js"
+					],
+					[
+						".gitig",
+						".gitignore"
+					],
+					[
+						"zend/auth",
+						"library/Zend/Auth.php"
+					],
+					[
+						"zenddbtableabstract",
+						"library/Zend/Db/Table/Abstract.php"
+					],
+					[
+						"zendauthadapterinter",
+						"library/Zend/Auth/Adapter/Interface.php"
+					],
+					[
+						"zend/auth/ada",
+						"library/Zend/Auth/Adapter/DbTable.php"
+					],
+					[
+						"forum",
+						"lib_cidade/classes/ClassForum.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 308.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 64,
+			"workspace_name": "/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/likewise-open/PDCLEARNWAY/vinicius.borges/projetos/embarque.sublime-workspace"
+		]
+	}
+}

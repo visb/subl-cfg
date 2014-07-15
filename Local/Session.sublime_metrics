@@ -1,0 +1,28 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"All Autocomplete",
+		"DocBlockr",
+		"Emmet",
+		"LESS",
+		"Lucario Color Scheme",
+		"PHP Zend Framework 2 Helper",
+		"Package Control",
+		"PhpDoc",
+		"SideBarEnhancements",
+		"Theme - Phoenix"
+	],
+	"startup_sec": 0.967969,
+	"syntax":
+	{
+		"CSS": 1,
+		"HTML": 176,
+		"JSON": 3,
+		"JavaScript": 384,
+		"Markdown": 4,
+		"PHP": 147,
+		"Plain text": 1
+	},
+	"time": 1405339368
+}
